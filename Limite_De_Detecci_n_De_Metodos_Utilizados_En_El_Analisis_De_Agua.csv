@@ -1,0 +1,46 @@
+﻿Parametro,Unidad de medida,Metodo de determinacion,Limite de deteccion
+PH,Unidades de pH,Electrometrico,"0,00 - 14,00"
+"Temperatura Muestra 
+",grados Centigrados,Termometrico,"0,0 - 80"
+"Conductividad 
+
+",µs/cm (25 grados Centigrados),Electrometrico,"0,01 - 200000"
+"Fósforo Total
+",mg P/L,"SM 4500-P B, E","0,05"
+Nitrogeno Total,"
+mg N/L",CALCULO,"1,10"
+"Nitrogeno Total Kjeldahl
+",mg N/L,"SM 4500-Norg C / SM 4500 NH3 B, C","1,0"
+"Nitratos
+",mg NO3  N/L,J. RODIER,"0,1"
+"Nitritos
+",mg NO2  N/L,SM 4500-NO2- B,"0,005"
+"Oxigeno disuelto
+",mg O2/L,Electrometrico,0-20
+"DQO
+",mg O2/L,SM 5220 C,"15,0"
+"DBO5
+",mg O2/L,SM 5210 B / ASTM D888-12 Metodo C,"2,0"
+"Grasas y Aceites
+",mg/L,SM 5520 D,"6,3"
+"Solidos suspendidos Totales 
+",mg/L,SM 2540 D,"10,0"
+Solidos suspendidos volátiles ,mg/L,SM 2540 E,10
+"Solidos Totales
+",mg/L,SM 2540 B,"30,0"
+"Turbidez 
+",NTU,SM 2130 B,1000
+"Fenoles
+",mg Fenol/L,"SM 5530 B, C","0,02"
+"Cromo
+",mg Cr /L,"SM 3030 F, SM 3111 B","0,05"
+"Cianuro 
+",mg CN/L,"SM 4500 CN- C, F","0,025"
+"Mercurio
+",mg Hg/L,SM 3112 B,"0,0005"
+"Sulfuros
+",mg S2/L ,SM 4500-S2 F,1
+"Coliformes Totales
+",NMP/100 mL,St. Mth. 9221 B,1.8
+"Coliformes Fecales
+",NMP/100 mL,St. Mth. 9223 B,1.8
